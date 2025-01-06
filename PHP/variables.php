@@ -45,4 +45,3 @@ var_dump($x);
 //     global
 //     static
 
-
